@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/sitestreetx/static/css/main.37f799fc.css",
-    "main.js": "/sitestreetx/static/js/main.23f99f66.js",
+    "main.css": "/sitestreetx/static/css/main.e0d0fc79.css",
+    "main.js": "/sitestreetx/static/js/main.c61da579.js",
     "static/js/453.4caa2968.chunk.js": "/sitestreetx/static/js/453.4caa2968.chunk.js",
-    "static/media/fail.MP4": "/sitestreetx/static/media/fail.37c65392ba25389b5518.MP4",
+    "static/media/fail.mp4": "/sitestreetx/static/media/fail.37c65392ba25389b5518.mp4",
     "static/media/PSUTIOUTDOOR.mp4": "/sitestreetx/static/media/PSUTIOUTDOOR.3fe35be73ef98fe267ad.mp4",
     "static/media/classroom..JPG": "/sitestreetx/static/media/classroom..ce395ea0dd0b935a085a.JPG",
+    "static/media/imagework.jpg": "/sitestreetx/static/media/imagework.eac2d8b17e8b739b5864.jpg",
     "static/media/contemplative-reptile.jpg": "/sitestreetx/static/media/contemplative-reptile.7ab4186592990b5e85bc.jpg",
     "static/media/Klukva_version_01.otf": "/sitestreetx/static/media/Klukva_version_01.b2d8533ddda880b8e401.otf",
     "static/media/googles.jpg": "/sitestreetx/static/media/googles.3d6ee1a1bde50f9a0350.jpg",
+    "static/media/drone-1-svgrepo-com.svg": "/sitestreetx/static/media/drone-1-svgrepo-com.94e225ff49618ad928457ca2bf820385.svg",
     "index.html": "/sitestreetx/index.html",
-    "main.37f799fc.css.map": "/sitestreetx/static/css/main.37f799fc.css.map",
-    "main.23f99f66.js.map": "/sitestreetx/static/js/main.23f99f66.js.map",
+    "main.e0d0fc79.css.map": "/sitestreetx/static/css/main.e0d0fc79.css.map",
+    "main.c61da579.js.map": "/sitestreetx/static/js/main.c61da579.js.map",
     "453.4caa2968.chunk.js.map": "/sitestreetx/static/js/453.4caa2968.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37f799fc.css",
-    "static/js/main.23f99f66.js"
+    "static/css/main.e0d0fc79.css",
+    "static/js/main.c61da579.js"
   ]
 }
